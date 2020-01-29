@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Redirectionio large demo</title>
-    <link>http://127.0.0.1:9999/posts/</link>
+    <link>https://lyrixx.github.io/hugo-demo/posts/</link>
     <description>Recent content on Redirectionio large demo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://127.0.0.1:9999/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lyrixx.github.io/hugo-demo/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
